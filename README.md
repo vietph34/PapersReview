@@ -8,4 +8,5 @@
 - [DensePhrase](https://arxiv.org/abs/2012.12624)
 ## 🔍 Question Answering:
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks, Neurips 2020](https://arxiv.org/abs/2005.11401) 
+- [Learning to Retrieve Passages without Supervision, NAACL 2022](https://arxiv.org/abs/2112.07708)
 - [Improving Passage Retrieval with Zero-Shot Question Generation, EMNLP 2022](https://arxiv.org/abs/2204.07496?context=cs.IR)
