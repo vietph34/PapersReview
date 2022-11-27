@@ -14,3 +14,5 @@
 - [Long Context Question Answering via Supervised Contrastive Learning, NAACL 2022](https://aclanthology.org/2022.naacl-main.207.pdf)
 - [Improving Passage Retrieval with Zero-Shot Question Generation, EMNLP 2022](https://arxiv.org/abs/2204.07496?context=cs.IR)
 - [Questions Are All You Need to Train a Dense Passage Retriever](https://arxiv.org/abs/2206.10658)
+## 🐝 Self-supervised learning:
+- [PiCO: Contrastive Label Disambiguation for Partial Label Learning, ICLR 2022](https://arxiv.org/abs/2201.08984)
