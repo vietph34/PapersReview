@@ -20,5 +20,6 @@
 ## 🐣 Prompting:
 - [Automatic Label Sequence Generationfor Prompting Sequence-to-sequence Models](https://arxiv.org/pdf/2209.09401.pdf)
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+- [SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer](https://aclanthology.org/2022.acl-long.346/)
 - [Using natural language prompts for machine translation](https://arxiv.org/pdf/2202.11822.pdf)
 - [Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation](https://arxiv.org/pdf/2302.07856.pdf)
