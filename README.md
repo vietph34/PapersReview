@@ -25,3 +25,6 @@
 - [Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation](https://arxiv.org/pdf/2302.07856.pdf)
 - [Prompting Large Language Model for Machine Translation: A Case Study](https://arxiv.org/pdf/2301.07069.pdf)
 - [Zero-shot Domain Adaptation for Neural Machine Translation with Retrieved Phrase-level Prompts](https://arxiv.org/abs/2209.11409)
+
+## Domain Adaptation:
+- [Soft Alignment Objectives for Robust Adaptation of Language Generation](https://arxiv.org/pdf/2211.16550.pdf)
