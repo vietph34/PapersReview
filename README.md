@@ -23,3 +23,4 @@
 - [SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer](https://aclanthology.org/2022.acl-long.346/)
 - [Using natural language prompts for machine translation](https://arxiv.org/pdf/2202.11822.pdf)
 - [Dictionary-based Phrase-level Prompting of Large Language Models for Machine Translation](https://arxiv.org/pdf/2302.07856.pdf)
+- [Prompting Large Language Model for Machine Translation: A Case Study](https://arxiv.org/pdf/2301.07069.pdf)
