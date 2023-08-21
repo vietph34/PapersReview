@@ -1,3 +1,6 @@
+## Energy-Based Model for NLP:
+- [Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning
+, EMNLP 2022](https://arxiv.org/abs/2203.06875v2)
 ## 🥳 Sentence Embedding:
 - [Toward Interpretable Semantic Textual Similarity via Optimal Transport-based Contrastive Sentence Learning](https://arxiv.org/abs/2202.13196)
 
